@@ -1,5 +1,6 @@
 - Hi, I’m @Thomas-Krajna 
-- I’m interested in posthuman, wearables, XR, UI/UX, and other things
+- I’m interested in the wearables, XR, UI/UX, and other things.
+- I use github as a place for tutorials, testing, and source code for projects. 
 - How to reach me is at thomaskrajna.artist on Instagram
 
 <!---
